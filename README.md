@@ -1,5 +1,9 @@
-<h1>HI i'am islam</h1>
+<div>
+  <h1>HI i'am islam</h1>
 <h4>Larabi islam full stack dev and cs student </h4>
+  
+</div>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/islem1666) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://discord.gg/islem1666) 
 
