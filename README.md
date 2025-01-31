@@ -1,6 +1,6 @@
 <div>
   <h1>HI i'am islam</h1>
-<h4>Larabi islam full stack dev and cs student </h4>
+<h4>full stack dev and cs student </h4>
   
 </div>
 
