@@ -15,4 +15,5 @@ Hi! I'm Larabi Islam, a passionate and curious computer science student in my 3r
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=larabiislem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=larabiislemlar&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=larabiislem)
 
