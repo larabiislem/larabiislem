@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi! I'm Larabi Islam, a passionate and curious computer science student in my 3rd year at USTHB (Algeria), specializing in full-stack mobile development and data analysis.<br><br>🚀 I enjoy building real-world applications that solve real problems. I’ve worked on impactful projects like:<br><br>🧠 A smart restaurant system using React Native with live order tracking and kitchen coordination.<br>📊 A digital dashboard for Djezzy, where I automated KPI visualization using ETL pipelines and BI tools.<br>🤝 The Mobadaraty Volunteer App, developed during the Djezzy Code Fest hackathon, empowering young Algerian volunteers through real-time features and digital rewards.<br>🔧 My toolbox includes:<br><br>Front-End: React, React Native<br>Back-End: Node.js, Express.js<br>Databases: MongoDB, PostgreSQL, Firebase, Teradata<br>BI & ETL: Power BI, Tableau, Talend<br>🎯 I’m always looking to learn, grow, and contribute to open source or collaborative projects. Let’s build something meaningful together!<br><br>📫 Contact me at: islamlarabi0@gmail.com<br>🔗 LinkedIn • GitHub
+# Hi there 👋
+
+I'm **Larabi Islam**, a passionate and curious computer science student in **1st year Master – Intelligent Computer Systems at USTHB (Algeria)**.  
+
+🚀 I enjoy building real-world applications that solve real problems.  
+
+## 🔧 My Toolbox
+- **Front-End:** React, React Native , Next js   
+- **Back-End:** Node.js, Express.js, FastAPI  
+- **Databases:** MongoDB, PostgreSQL, Firebase , Oracle , Teradata 
+- **DevOps & Tools:** Docker  
+
+## 🎯 About Me
+I’m a **full-stack web & mobile developer**, always looking to learn, grow, and contribute to open source or collaborative projects.  
+Let’s build something meaningful together!  
+
+## 📫 Contact
+- **Email:** islamlarabi0@gmail.com  
+  
+
 
 
 ## 🌐 Socials:
