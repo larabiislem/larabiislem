@@ -22,8 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larabiislem&show_icons=true&locale=en" alt="larabiislem" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=larabiislem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
