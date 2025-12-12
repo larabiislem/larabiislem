@@ -3,7 +3,7 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=larabiislemlar&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=larabiislem)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larabiislem" alt="larabiislem" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ashen-nine-y85jp6j8fi.vercel.app](https://portfolio-ashen-nine-y85jp6j8fi.vercel.app)
 
